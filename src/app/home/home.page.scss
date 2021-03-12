@@ -1,0 +1,11 @@
+.background{
+  --background: url('https://cdnb.artstation.com/p/assets/images/images/022/323/513/large/mario-aceituno-fondo-pantalla-quiz.jpg?1574978636') 0 0/100% 100% no-repeat;
+}
+
+.my-custom-class .popover-content {
+  background: #222;
+}
+
+.my-custom-class {
+  --background: #222;
+}
